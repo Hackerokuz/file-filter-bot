@@ -1,0 +1,22 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "application_id": 123456789012345678,
+    "isWhitelist": true,
+    "blacklisted_file_types": [
+            "pdf",
+            "exe",
+            "sh",
+            "cmd",
+            "zip",
+            "7zip",
+            "tar"
+    ],
+    "whitelisted_file_types": [
+            "mp4",
+            "mov",
+            "avi",
+            "jpeg",
+            "mp3",
+            "gif"
+    ]
+}
